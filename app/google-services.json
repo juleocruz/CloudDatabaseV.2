@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526166414191",
+    "firebase_url": "https://clouddatabase-9bcc6.firebaseio.com",
+    "project_id": "clouddatabase-9bcc6",
+    "storage_bucket": "clouddatabase-9bcc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526166414191:android:126ce050c0e51d1e",
+        "android_client_info": {
+          "package_name": "delacruz.clouddatabase.uic.com.clouddatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526166414191-ibvvm3sdlm06fp9477mvecafuepsln94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "delacruz.clouddatabase.uic.com.clouddatabase",
+            "certificate_hash": "9a255c7760431e9474b652d9cba18f46670f64c2"
+          }
+        },
+        {
+          "client_id": "526166414191-bgvo3if3kporu1a7hr1o7g827cl521kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOnFWD8y0LOCEiA52-oB5UVLpZhuvagE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526166414191-bgvo3if3kporu1a7hr1o7g827cl521kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
